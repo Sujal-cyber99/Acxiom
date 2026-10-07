@@ -1,0 +1,21 @@
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /src
+
+# Copy csproj and restore as distinct layers
+COPY ["AcxiomCRM.csproj", "./"]
+RUN dotnet restore "AcxiomCRM.csproj"
+
+# Copy everything else and build
+COPY . .
+RUN dotnet publish "AcxiomCRM.csproj" -c Release -o /app/publish /p:UseAppHost=false
+
+# Build runtime image
+FROM mcr.microsoft.com/dotnet/aspnet:8.0 AS final
+WORKDIR /app
+COPY --from=build /app/publish .
+
+# Standard environment variables for .NET in containers
+ENV ASPNETCORE_ENVIRONMENT=Production
+
+# Note: The application is configured in Program.cs to listen on http://0.0.0.0:$PORT
+ENTRYPOINT ["dotnet", "AcxiomCRM.dll"]

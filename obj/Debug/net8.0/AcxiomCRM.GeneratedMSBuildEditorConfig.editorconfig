@@ -1,0 +1,192 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.TargetFrameworkIdentifier = .NETCoreApp
+build_property.TargetFrameworkVersion = v8.0
+build_property.EntryPointFilePath = 
+build_property.RootNamespace = AcxiomCRM
+build_property.RootNamespace = AcxiomCRM
+build_property.ProjectDir = C:\Users\WIN\.gemini\antigravity\scratch\AcxiomCRM\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\WIN\.gemini\antigravity\scratch\AcxiomCRM
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Areas/Identity/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Activitys/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Activitys/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Activitys/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Activitys/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Activitys/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWN0aXZpdHlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/AuditLogs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRMb2dzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/AuditLogs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRMb2dzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/AuditLogs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRMb2dzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/AuditLogs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRMb2dzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/AuditLogs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRMb2dzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Customers/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Customers/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Customers/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Customers/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Customers/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/FollowUps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9sbG93VXBzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/FollowUps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9sbG93VXBzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/FollowUps/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9sbG93VXBzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/FollowUps/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9sbG93VXBzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/FollowUps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9sbG93VXBzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Leads/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Leads/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Leads/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Leads/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Leads/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhZHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Opportunitys/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3Bwb3J0dW5pdHlzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Opportunitys/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3Bwb3J0dW5pdHlzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Opportunitys/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3Bwb3J0dW5pdHlzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Opportunitys/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3Bwb3J0dW5pdHlzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Opportunitys/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3Bwb3J0dW5pdHlzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Shared/_LoginPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/WIN/.gemini/antigravity/scratch/AcxiomCRM/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rzbcuecmob

@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "Dashboard";
+}
+<div class="container mt-4">
+    <h2 class="mb-4">AcxiomCRM Dashboard</h2>
+    <div class="row">
+        <div class="col-md-4">
+            <div class="card text-white bg-primary mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Total Customers</h5>
+                    <p class="card-text display-4">@ViewBag.TotalCustomers</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-success mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Total Leads</h5>
+                    <p class="card-text display-4">@ViewBag.TotalLeads</p>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4">
+            <div class="card text-white bg-warning mb-3">
+                <div class="card-body">
+                    <h5 class="card-title">Open Opportunities</h5>
+                    <p class="card-text display-4">@ViewBag.OpenOpportunities</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

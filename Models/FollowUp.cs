@@ -1,0 +1,14 @@
+using System;
+using System.ComponentModel.DataAnnotations;
+namespace AcxiomCRM.Models {
+    public class FollowUp {
+        public int FollowUpId { get; set; }
+        public int? CustomerId { get; set; }
+        public int? LeadId { get; set; }
+        public DateTime FollowUpDate { get; set; } = DateTime.Now;
+        public string? FollowUpType { get; set; }
+        public string? Remarks { get; set; }
+        public string Status { get; set; } = "Planned";
+        public string? AssignedTo { get; set; }
+    }
+}
